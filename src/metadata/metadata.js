@@ -77,7 +77,7 @@ Achievements:
         "Kubenetes",
       ],
       contents: `
-Senior Engineer and Technical Leader of #1 media monitoring, intelligence and insights solution provider in VietNam. The platform helps clients monitor conversations of their in real-time.
+Senior Engineer and Technical Leader of #1 media monitoring, intelligence and insights solution provider in VietNam. The platform helps clients monitor conversations of their customer in real-time.
 
 Responsibilities:
 
