@@ -46,7 +46,7 @@ module.exports = {
         "GCP",
       ],
       contents: `
-Senior Engineer of th best enterprise Chatbot in Singapore. We serve a lot of big customers: Melco Resorts, Bank of Singapore, Sacombank (Viet Nam) and so on.
+Senior Engineer of the best enterprise Chatbot in Singapore. We serve a lot of big customers: Melco Resorts, Bank of Singapore, Sacombank (Viet Nam) and so on.
 
 Responsibilities:
 
@@ -81,7 +81,7 @@ Senior Engineer and Technical Leader of #1 media monitoring, intelligence and in
 
 Responsibilities:
 
-* Developed a large scale system that allow us crawled a ton of data from the internet. Most data came from social channel like Facebook, Youtube, Instagram, Viet Nam Forum and so on.
+* Developed a large scale system that allow us crawled a ton of data from the internet. Most data come from social channel like Facebook, Youtube, Instagram, Viet Nam Forum and so on.
 * Maintained internal logging montior system that uses ELK Stack (Elasticsearch, Logstash, Kibana).
 * Automate release workflow with GitOps. Used FluxCD, Github Actions and Kubernetes (hosted on dedicated servers).
 
@@ -89,7 +89,7 @@ Achievements:
 
 * With 15 nodes kubenetes cluster, we used to performed more than **30 million requests** to got **15 million documents** per day on peak time.
 * Maintained 2 Elasticsearch clusters that stores more than **5 billion documents** (~ 15Tb text data).
-* Reduced release time from 2 hours to 30 minutes.
+* Reduced release time from 4 hours to 30 minutes.
 * Got at least 80% code coverage.
 `,
     },
