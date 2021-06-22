@@ -29,7 +29,7 @@ module.exports = {
     ["GCP", "+"],
   ],
   summary:
-    "I am a fullstack developer who, focusing on backend development. With 6 years experience, my ultimate goals are to design large-scale systems, optimize applications and lead successful teams. Love to refresh myself every single day, always hungry to keep learning!",
+    "I am a fullstack developer in 6 years, focusing on backend development. My ultimate goals are to design large-scale systems, optimize applications and lead successful teams. Love to refresh myself every single day, always hungry to keep learning!",
   positions: [
     {
       company: "2359Media",
