@@ -29,7 +29,7 @@ module.exports = {
     ["GCP", "+"],
   ],
   summary:
-    "I am a fullstack developer, focusing on backend development. My goals are design large scale systems, optimize applications and lead teams to achieve sucessfull. Love to refresh my self evert single day, always hungry to keep learning!",
+    "I am a fullstack developer who, focusing on backend development. With 6 years experience, my ultimate goals are to design large-scale systems, optimize applications and lead successful teams. Love to refresh myself every single day, always hungry to keep learning!",
   positions: [
     {
       company: "2359Media",
@@ -46,7 +46,7 @@ module.exports = {
         "GCP",
       ],
       contents: `
-Senior engineer of Product Team.
+Senior Engineer of th best enterprise Chatbot in Singapore. We serve a lot of big customers: Melco Resorts, Bank of Singapore, Sacombank (Viet Nam) and so on.
 
 Responsibilities:
 
@@ -56,10 +56,10 @@ Responsibilities:
 
 Achievements:
 
-* Applied GitOps workflow that helps us use Git as source of truth (performs by FluxCD and GitHub Action). Reduce time and complexibility of deploy and release.
-* Designed and developed a Voice Bot Platform base on GCP and deployed to K8S clusters on Azure.
-* Applied testing to ensure source code quality. Always require more than 80% of code coverage.
-* Hosted tech talks. Topics: Design ETL pipeline helps us create reports on Google Data Studio, Deployed the ELK stacks for Log Monitoring, and Coding Trick & Tips, ...
+* Applied GitOps workflow that helps us use Git as a source of truth (performs by FluxCD and GitHub Action). Reduce time and complexity of deployment and release.
+* Designed and developed a Voice Bot Platform based on GCP and deployed to K8S clusters on Azure.
+* Applied testing to ensure the high quality of our source code. Always require more than 80% of code coverage.
+* Hosted tech talks. Topics: Design ETL pipeline for creating reports on Google Data Studio; Deployed the ELK stacks for Log Monitoring; and Coding Tricks & Tips, ...
 `,
     },
     {
@@ -77,7 +77,7 @@ Achievements:
         "Kubenetes",
       ],
       contents: `
-Senior engineer and technical leader of #1 media monitoring, intelligence and insights solution provider in VietNam. The platform helps clients monitor conversations of their in real-time.
+Senior Engineer and Technical Leader of #1 media monitoring, intelligence and insights solution provider in VietNam. The platform helps clients monitor conversations of their in real-time.
 
 Responsibilities:
 
